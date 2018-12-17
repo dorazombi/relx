@@ -1,0 +1,10 @@
+CATEGORY
+id
+name
+desc
+
+TYPE
+
+MODEL
+
+VARCHAR_PROPERTY
